@@ -24,7 +24,7 @@ Para poder tanto el archivo .py como el .exe debereís tener instalado el progra
 7. Asi funciona el script
 
 
-<h2>Debes cambiar los permisos de las carpetas para que solo pueda acceder ese usuario y el/los administrador(es) y con el archivo usuarios.txt, debereís hacer lo mismo, puedan leerlo pero no modificarlo</h2>
+<h2>Debes cambiar los permisos de las carpetas para que solo pueda acceder ese usuario y el/los administrador(es) y con el archivo usuarios.txt, debereís hacer lo mismo.</h2>
 
 
 
